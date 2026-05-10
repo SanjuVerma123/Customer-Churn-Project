@@ -84,14 +84,15 @@ Customer-Churn-Prediction/
 │
 ├── models
 │   └── churn_model.pkl
+|   └── scaler.pkl
 │
 ├── images
-│   ├── dashboard.png
-│   ├── churn_analysis.png
-│   └── feature_importance.png
+│   ├── churn_project_Dashboard.png
+│   ├── churn_app_image.png
+│   
 │
 ├── app
-│   └── prediction_app.py
+│   └── app.py
 │
 ├── requirements.txt
 ├── README.md
@@ -282,11 +283,11 @@ The Power BI dashboard includes:
 
 ---
 
-# 📷 Dashboard Preview
+# 📷 App Preview
 
-## Executive Dashboard
+## Customer Churn App 
 
-<img width="100%" alt="dashboard" src="images/dashboard.png">
+<img width="100%" alt="dashboard" src="churn_app_image.png">
 
 ---
 
