@@ -101,6 +101,14 @@ Customer-Churn-Prediction/
 
 ---
 
+# App Deployement Link 
+
+https://customer-churn-project-sanjuverma.streamlit.app/
+
+
+
+
+
 # 📊 Dataset Information
 
 The dataset contains customer demographic, account, and service usage information.
