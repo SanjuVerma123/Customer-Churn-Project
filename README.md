@@ -170,7 +170,7 @@ The following analyses were performed:
 
 ## Customer Churn Overview Dashboard
 
-<img width="100%" alt="Customer Churn Dashboard" src="Dashboard_churn.png">
+<img width="100%" alt="Customer Churn Dashboard" src="dashboard_churn.png">
 
 
 
